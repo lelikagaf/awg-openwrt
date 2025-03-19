@@ -16,7 +16,7 @@ jobs:
             pkgarch: mipsel_74kc
             target: ramips
             subtarget: rt3883
-            vermagic: "d4a820b8725ef7778c48236a044f1707"
+            vermagic: "a997710b007964fd2e29b6b079ab8b58"
 
     steps:
       - uses: actions/checkout@v4
